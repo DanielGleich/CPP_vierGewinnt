@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/emptyField.png</file>
+        <file>images/blueField.png</file>
+        <file>images/redField.png</file>
+    </qresource>
+</RCC>
